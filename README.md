@@ -1,5 +1,8 @@
-# Stack
-
+<div align="center">
+  Tech Stack
+</div>
+<br>
+<br>
 <div align="center">
   O/S
 </div>
