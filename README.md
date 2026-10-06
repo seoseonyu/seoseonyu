@@ -46,7 +46,7 @@
 </div>
 
 <br>
-
+<div align="center">
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=seoseonyu&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/seoseonyu"
@@ -54,3 +54,4 @@
   height="300"
 />
 </a>
+</div>
