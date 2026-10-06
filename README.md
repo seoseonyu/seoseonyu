@@ -44,3 +44,13 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/Synology-B5B5B6?style=flat&logo=Synology&logoColor=white"/>
 </div>
+
+<br>
+
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=seoseonyu&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/seoseonyu"
+  width="600"
+  height="300"
+/>
+</a>
